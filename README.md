@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="Glad to see you here :)">Hi! I'm Johan</h1>
+<h1 align="center" title="Glad to see you here :)">👋Hi! I'm Johan</h1>
 
 <!-- Socials -->
 <p align="center">
